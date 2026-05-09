@@ -1,0 +1,12 @@
+[
+  "Build a CRM with login, contacts, dashboard, role-based access, and premium plan with payments. Admins can see analytics.",
+  "Create a task management app with projects, tasks, users, dashboard and admin access.",
+  "Build an ecommerce app with products, orders, payments and admin dashboard.",
+  "Make a blog platform with posts, comments, login and admin moderation.",
+  "Create a booking app with services, bookings, users and dashboard.",
+  "Build something useful for my team.",
+  "Create an app with no database but store users and orders.",
+  "Build a CRM where normal users can delete everything but only admins can delete data.",
+  "Make a premium app but do not include payments.",
+  "Create a dashboard with analytics, role access and CRUD."
+]
